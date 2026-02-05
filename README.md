@@ -8,9 +8,9 @@
 
 ### 🎯 Objectif : Alternance 2026-2027
 <ul>
-  [cite_start]<li><strong>Poste recherché :</strong> Alternance en <strong>Concepteur Développeur d'Applications (Bac+3)</strong> dès septembre 2026, avec l'ambition de poursuivre jusqu'au <strong>Bac+5</strong>.</li>
-  [cite_start]<li><strong>Localisation :</strong> Strasbourg (Bas-Rhin) </li>
-  [cite_start]<li><strong>Expérience clé :</strong> Stage en environnement SaaS chez <strong>SAS GOTO IA</strong> (Gestion de workflow).</li>
+<li><strong>Poste recherché :</strong> Alternance en <strong>Concepteur Développeur d'Applications (Bac+3)</strong> dès septembre 2026, avec l'ambition de poursuivre jusqu'au <strong>Bac+5</strong>.</li>
+    <li><strong>Localisation :</strong> Strasbourg (Bas-Rhin) </li>
+    <li><strong>Expérience clé :</strong> Stage en environnement SaaS chez <strong>SAS GOTO IA</strong> (Gestion de workflow).</li>
 </ul>
 
 ---
