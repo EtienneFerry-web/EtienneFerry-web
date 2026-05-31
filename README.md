@@ -91,5 +91,4 @@ Avant 2019         Chef de Rang & Barman · Strasbourg — rigueur, esprit d'éq
 | | |
 |---|---|
 | 📧 Email | [e.ferry607@gmail.com](mailto:e.ferry607@gmail.com) |
-| 📱 Téléphone | 06.58.37.71.17 |
 | 📍 Localisation | Strasbourg, 67100 |
